@@ -1,0 +1,1 @@
+A bootcamp exercise in Django sessions, redirects and displaying sessions data in html
